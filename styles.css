@@ -1,9 +1,9 @@
-title { color:#32a888 }
+title { color:#000000 }
 body {
-    font-family: Comic Sans MS, sans-serif;
+    font-family: Comic 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     text-align: center;
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: #cf20ff;
+    color: #000000;
 }
 h1 {
     color: #0073e6;
