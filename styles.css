@@ -9,5 +9,9 @@ body {
 }
 h1 {
     color: #000000;
+    font-size: 30px;
+}
+p {font-size: 15px;
+    color: #000000;
 }
 
